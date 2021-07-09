@@ -1,1 +1,1 @@
-# Project41
+# project40-template
